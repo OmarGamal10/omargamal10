@@ -1,1 +1,3 @@
-![why_u_sniffing](./omar.svg)
+<a href="https://github.com/omargamal10">
+  <img alt="please go away" src="./omar.svg">
+</a>
